@@ -1,0 +1,36 @@
+{
+  "task": [
+    {
+      "id": "d30a",
+      "name": "Nimeet",
+      "status": 0,
+      "task_date": "2025-04-08",
+      "task_type": "red",
+      "task_dsc": "bold"
+    },
+    {
+      "id": "a03a",
+      "name": "ngg",
+      "status": 0,
+      "task_date": "2025-04-03",
+      "task_type": "cyan",
+      "task_dsc": "qw"
+    },
+    {
+      "id": "5b85",
+      "name": "Nimeet",
+      "status": 0,
+      "task_date": "2025-04-24",
+      "task_type": "gray",
+      "task_dsc": "zupp"
+    },
+    {
+      "id": "50ba",
+      "name": "nr",
+      "status": 0,
+      "task_date": "2025-04-12",
+      "task_type": "cyan",
+      "task_dsc": "price"
+    }
+  ]
+}
